@@ -47,5 +47,5 @@ CREATE TABLE salaries(
 	Primary key (emp_no)
 );
 
-SELECT * FROM departments;
+
 
